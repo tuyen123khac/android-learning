@@ -1,0 +1,7 @@
+package com.tuyenvo.androidspecificlearning.di
+
+import javax.inject.Scope
+
+@Scope
+@Retention(value = AnnotationRetention.RUNTIME)
+annotation class ActivityScope

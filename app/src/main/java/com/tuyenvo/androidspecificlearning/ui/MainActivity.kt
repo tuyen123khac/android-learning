@@ -1,7 +1,8 @@
-package com.tuyenvo.androidspecificlearning
+package com.tuyenvo.androidspecificlearning.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tuyenvo.androidspecificlearning.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
